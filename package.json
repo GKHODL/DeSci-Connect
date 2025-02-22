@@ -1,0 +1,32 @@
+{
+      "name": "desci-connect",
+      "version": "1.0.0",
+      "description": "A scientific collaboration platform.",
+      "author": "Wide Canvas",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/openputergit/wide-canvas-m7fu40k5-243dwkc6"
+      },
+      "license": "MIT",
+      "keywords": [
+        "desci",
+        "science",
+        "collaboration",
+        "research",
+        "nft"
+      ],
+      "scripts": {
+        "start": "vite preview",
+        "dev": "vite",
+        "build": "vite build",
+        "test": "jest"
+      },
+      "dependencies": {
+        "vue": "^3.0.0",
+        "serve": "^14.0.0"
+      },
+      "devDependencies": {
+        "vite": "^4.0.0",
+        "jest": "^29.0.0"
+      }
+    }
